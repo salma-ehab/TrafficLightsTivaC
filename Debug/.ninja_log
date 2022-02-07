@@ -1,0 +1,13 @@
+# ninja log v5
+0	67	6634117945367187	C:/Users/Salma/Documents/Project_Embedded/Debug/Obj/main.o	85012876b1e8c999
+77	171	6634117946422092	C:/Users/Salma/Documents/Project_Embedded/Debug/Exe/Project_Embedded.out	97ee4d35daeca8f4
+4	253	6634120034712003	C:/Users/Salma/Documents/Project_Embedded/Debug/Obj/GPIOInit.o	b17580e64dc86040
+15	278	6634120034789636	C:/Users/Salma/Documents/Project_Embedded/Debug/Obj/startup_ewarm.o	da1cacfa2d6c24b5
+13	287	6634120034947894	C:/Users/Salma/Documents/Project_Embedded/Debug/Obj/main.o	d424ddc645371dd6
+259	371	6634120035890125	C:/Users/Salma/Documents/Project_Embedded/Debug/Obj/Timers.o	b3960ec772703216
+23	392	6634120036016197	C:/Users/Salma/Documents/Project_Embedded/Debug/Obj/InterruptHandler.o	79cd137eb68a4fe3
+401	651	6634120038694890	C:/Users/Salma/Documents/Project_Embedded/Debug/Exe/Project_Embedded.out	1c75f6c1e791190c
+9	984	6635709074507417	C:/Users/Salma/Documents/Project_Embedded/Debug/Obj/GPIOInit.o	b17580e64dc86040
+542	992	6635709074517392	C:/Users/Salma/Documents/Project_Embedded/Debug/Obj/InterruptHandler.o	79cd137eb68a4fe3
+578	1011	6635709074748165	C:/Users/Salma/Documents/Project_Embedded/Debug/Obj/main.o	d424ddc645371dd6
+1021	1889	6635709083440119	C:/Users/Salma/Documents/Project_Embedded/Debug/Exe/Project_Embedded.out	1c75f6c1e791190c
